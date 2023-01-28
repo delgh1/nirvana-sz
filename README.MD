@@ -1,12 +1,23 @@
 ## nirvana-sz
 
-This is a repo for the archives of a high school magazine "Nirvana", operated during 2009-2016.
+This is a repo for the archives of a high school magazine "Nirvana", operated during 2009-2016, a fork of [this post](https://hackmd.io/@uOwb5ZnlTnWuF0zwmCQ_5Q/B1446O0bX "this post"), which is also saved [here](2023-01-28-archive-of-nirvana.md "2023-01-28-archive-of-nirvana.md").
 
-For complete archive files, see **Releases** to the right.
+To download complete archive files, see **Releases** to the right, or run the following command to clone the repo your local storage:
+```
+git clone https://github.com/delgh1/nirvana-sz.git
+```
+If you have not yet installed `git` on your operating system, run (on a Debian system, for example):
+```
+sudo apt install git
+``` 
 
 For change logs, see Github's commit history.
 
-The contents are mostly of low scan quality and have accessibility issues. Screen reader software may not work.
+[Nirvana's Wechat account timeline](https://nirvana-wechat.jing.rocks "nirvana-wechat.jing.rocks") is hosted at `https://nirvana-wechat.jing.rocks`, which you may also download from **Releases**.
 
+### Known issues (**please raise issues in the Github `Issues` section above**)
 
-[Nirvana's Wechat account timeline](nirvana-wechat/index.html "nirvana-wechat/index.html") which you may also download from **Releases**
+- Accessibility. The contents are mostly of moderate to low scan quality and have accessibility issues. Screen reader software may not work.
+- Mismatched cover and file name of `pdf/NirvanaYearly_2013-2014C.pdf`. ----> This has been addressed in `issue #1` and fixed in `commit eca7049`. There was an editorial issue that year and the cover of the magazine was incorrect. The fix also includes `pdf/NirvanaYearly_2015-2016.pdf`. Note that the archive file from 2018 contains incorrect file names.
+- The quality of `pdf/NirvanaYearly_2014-2015.pdf` is very low. Rework needed. ----> Raised in `issue #3`. No plan to fix this. May reopen the issue once regaining physical access to the magazine. If anyone has the magazine in hand and has access to a scanner, please create a fork and a pull request. Thank you.
+- Inconsistent timestamp and size of files ----> some files were modified (before 2022) without a version control. Also Github has a file size limit of 100MiB. Some smaller version of pdf files were used and "-s" is appended to each of those file names.
