@@ -9,4 +9,4 @@ For change logs, see Github's commit history.
 The contents are mostly of low scan quality and have accessibility issues. Screen reader software may not work.
 
 
-[Nirvana's Wechat account timeline](nirvana-wechat/index.html "nirvana-wechat/index.html")
+[Nirvana's Wechat account timeline](nirvana-wechat/index.html "nirvana-wechat/index.html") which you may also download from **Releases**
