@@ -5,25 +5,51 @@ title: "Archive of Nirvana"
 
 # Disclaimer
 
-1. The views, information, or opinions expressed in the following contents are solely of the individuals involved.
-2. This page and the files attached come with **absolutely no warranty**.
+1. The views, information, or opinions expressed in the following contents are
+solely of the individuals involved.
+
+2. This page and the files attached come with **ABSOLUTELY NO WARRANTY**.
 
 # Added features (?)
 
 [WeChat History of Nirvana - 涅槃周刊公众号推文](https://nirvana-wechat.jing.rocks)
 
-[GitHub repository](https://github.com/delgh1/nirvana-sz), which includes all the pdf files mentioned below.
+[GitHub repository](https://github.com/delgh1/nirvana-sz), which includes all
+the pdf files mentioned below. [Download the release
+here.](https://github.com/delgh1/nirvana-sz/releases)
 
 # Changelog
 
-- May 17 2023: Reformat the file. Add the URL to the index of nirvana wechat service account history and its GitHub repo.
-- Jan 28 2023: Forked from original author of this post
+- Nov 18 2023: Add a link to release download page. Reformat the file using
+  Emacs auto-fill-mode. Add permalink.
+
+- May 17 2023: Reformat the file. Add the URL to the index of nirvana wechat
+  service account history and its GitHub repo.
+
+- Jan 28 2023: Fork from original author of [the
+post](https://web.archive.org/web/20231118040826/https://hackmd.io/@uOwb5ZnlTnWuF0zwmCQ_5Q/B1446O0bX?type=view).
+The pdf preview feature is not working on the original post. Use the [GitHub
+repo](https://github.com/delgh1/nirvana-sz) instead.  **The original post
+requires non-free Javascript to function. It is also infested with various web
+elements that violate users' privacy. Therefore, I've inserted a link to the
+Wayback Machine instead.**
 
 # License
 
-The copyright status of all the works published by `Nirvana weekly` is unknown, since the magazine did not specify such terms and the magazine itself has been defunct since 2016. See the `README.MD` in the GitHub repository mentioned above. By the reactions of some editors I've met, I think it's safe to assume these works are in public domain now.
+The copyright status of all the works published by `Nirvana weekly` is
+unknown, since the magazine did not specify such terms and the magazine itself
+has been defunct since 2016. See the `README.MD` in the GitHub repository
+mentioned above. By the reactions of some editors I've met, I think it's safe
+to assume these works are in public domain now.
 
-The sections from the top to this line of the post is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+The sections from the top to this line of the post is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International
+License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+**ABSOLUTELY NO WARRANTY, not even the implied warranty of MERCHANTABILITY or
+  FITNESS FOR A PARTICULAR PURPOSE.**
+
+==============================================================================
 
 # 《涅槃周刊》电子版汇总（更新于2019年3月5日）
 
